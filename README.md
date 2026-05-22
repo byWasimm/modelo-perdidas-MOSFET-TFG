@@ -1,5 +1,3 @@
-# Modelo-Perdidas-MOSFET-TFG
-Modelos analíticos de pérdidas en MOSFETs para conmutación forzada (hard switching) y conmutación suave (ZVS). Trabajo Fin de Grado — URJC 2025/26
 # Modelo Analítico de Pérdidas en MOSFETs
 
 Trabajo Fin de Grado — Grado en Ingeniería Electrónica Industrial y Automática  
