@@ -1,4 +1,4 @@
-# Modelo Analítico de Pérdidas en MOSFETs
+# Modelo analítico de pérdidas en MOSFETs
 
 Trabajo Fin de Grado — Grado en Ingeniería Electrónica Industrial y Automática  
 Universidad Rey Juan Carlos, curso 2025/26  
@@ -17,8 +17,8 @@ experimental previa. Cubre dos regímenes de conmutación:
 
 | Archivo | Descripción |
 |---|---|
-| `hard_switching_loss_model.m` | Modelo de pérdidas en hard switching con iteración electrotérmica |
-| `ZVS_loss_model.m` | Modelo ZVS/iZVS/CCM con clasificación automática de régimen |
+| `hard_switching_loss_model.mlx` | Modelo de pérdidas en hard switching con iteración electrotérmica |
+| `ZVS_loss_model.mlx` | Modelo ZVS/iZVS/CCM con clasificación automática de régimen |
 | `Calculo_DC_Phase_ZVS.xlsx` | Hoja de cálculo para dimensionado de dead time óptimo |
 
 ## Uso
