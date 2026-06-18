@@ -27,7 +27,4 @@ Rellenar las Secciones 1 y 2 de cada script con los parámetros del
 datasheet del MOSFET y las condiciones del convertidor. 
 Ver instrucciones detalladas en los comentarios del código.
 
-## Referencias
 
-Modelos basados en: AN1002 (MCC Semiconductors), Prado et al. (2022), 
-Kasper et al. (2016), Miftakhutdinov (2014), Christen & Biela (2019).
